@@ -268,6 +268,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak-GeoAware is an extension for Keycloak that integrates geolocation and device monitoring](https://b2-code.github.io/Keycloak-GeoAware/)
 *  [Keycloak Vault Provider for OpenBao and HashiCorp Vault](https://github.com/Nordix/keycloak-secrets-vault-provider)
 *  [Keycloak Redis Cache](https://github.com/p2-inc/keycloak-redis-cache)
+*  [Cloudflare Turnstile support for Keycloak](https://github.com/systemofapwne/keycloak-turnstile)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
