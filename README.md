@@ -319,6 +319,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Phase Two: Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
 *  [Phase Two: Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes)
 *  [Phase Two: 3 CSS-only Keycloak theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
+*  [AUTHFIT: Keycloak login theme with a live, no-code editor built into the admin console.](https://github.com/salliver/AUTHFIT-Keycloak-theme-live-editor) 
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
@@ -331,6 +332,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [codecentric Keycloak Helm Chart](https://github.com/codecentric/helm-charts/tree/master/charts/keycloak)
 *  [Import / Export Keycloak Config](https://gist.github.com/unguiculus/19618ef57b1863145262191944565c9d)
 *  [keycloak-operator](https://github.com/keycloak/keycloak-operator)
+*  [Hostzero Keycloak Operator: Manage your Keycloak realm resources through Kubernetes CRs](https://github.com/Hostzero-GmbH/keycloak-operator/)
 
 ## Tools
 *  [keycloakmigration: Manage your Keycloak configuration with code](https://github.com/klg71/keycloakmigration)
@@ -406,6 +408,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [univention](https://www.univention.com/)
 *  [Keymate](https://keymate.io)
 *  [Clever.cloud Keycloak as a Service](https://www.clever.cloud/product/managed-keycloak-as-a-service/)
+*  [Perfsys](https://perfsys.com/solutions/keycloak-sso/) - Managed Keycloak deployment and SSO integration on AWS.
 
 ## Miscellaneous
 *  [Find sites using Keycloak with google](https://www.google.de/search?q=inurl%3Aauth+inurl%3Arealms+inurl%3Aprotocol&oq=inurl%3A&client=ubuntu&sourceid=chrome&ie=UTF-8)
