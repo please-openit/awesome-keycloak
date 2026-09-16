@@ -268,6 +268,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Keycloak-GeoAware is an extension for Keycloak that integrates geolocation and device monitoring](https://b2-code.github.io/Keycloak-GeoAware/)
 *  [Keycloak Vault Provider for OpenBao and HashiCorp Vault](https://github.com/Nordix/keycloak-secrets-vault-provider)
 *  [Keycloak Redis Cache](https://github.com/p2-inc/keycloak-redis-cache)
+*  [Cloudflare Turnstile support for Keycloak](https://github.com/systemofapwne/keycloak-turnstile)
 
 ## Integrations
 *  [Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter](https://github.com/authbroker/authbroker)
@@ -319,7 +320,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [Phase Two: Keycloak login theme template](https://github.com/p2-inc/keycloak-theme-template)
 *  [Phase Two: Extension for runtime loading of CSS themes](https://github.com/p2-inc/keycloak-themes)
 *  [Phase Two: 3 CSS-only Keycloak theme examples](https://github.com/p2-inc/keycloak-themes/tree/main/examples)
-*  [AUTHFIT: Keycloak login theme with a live, no-code editor built into the admin console.](https://github.com/salliver/AUTHFIT-Keycloak-theme-live-editor) 
+*  [AUTHFIT: Keycloak login theme with a live, no-code editor built into the admin console.](https://github.com/salliver/AUTHFIT-Keycloak-theme-live-editor)
+*  [Online Keycloak Theme Editor](https://keycloak-theme-editor.org/) for plain Keycloak Themes
+*  [cloakey Online Theme Editor](https://cloakey.dev/) for Keycloakify based Themes
 
 ## Docker
 *  [Official Keycloak Docker Images](https://github.com/jboss-dockerfiles/keycloak)
@@ -400,7 +403,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *  [INTEGSOFT UNIFIED USER CREDENTIALS WITH KEYCLOAK SSO](https://www.integsoft.cz/en/sso.html#what-is-sso)
 *  [JIRA SSO Plugin by codecentric](https://marketplace.atlassian.com/plugins/de.codecentric.atlassian.oidc.jira-oidc-plugin/server/overview)
 *  [Keycloak Competence Center by Inventage AG](https://keycloak.ch/)
-*  [Keycloak as a Service](https://www.cloud-iam.com)
+*  [Cloud-IAM](https://www.cloud-iam.com) - Managed Keycloak SaaS with dedicated instances deployed in 20 minutes. ISO 27001:2022, SOC 2 Type 2, SecNumCloud 3.2 certified. 70+ regions, 99.98% SLA.
 *  [Bare.Id - GDPR compliant Keycloak as a Service](https://bare.id/)
 *  Phase Two (https://phasetwo.io/) offers [hosting](https://phasetwo.io/hosting/) (free tier avaialable), [on-prem deployments](https://phasetwo.io/product/onprem), and [enterprise Keycloak support](https://phasetwo.io/support/).
 *  [Skycloak](https://skycloak.io/)
